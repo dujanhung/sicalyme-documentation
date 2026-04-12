@@ -28,16 +28,4 @@ it contains everything.
 
 </td></tr></table>
 
-<table><tr><td>
-
-<h2>🦟 child</h2>
-
-<table><tr><td>
-
-<b><a href="https://github.com/dujanhung/sicalyme-nav/blob/main/README.md">metadata</a></b>
-
-</td></tr></table>
-
-</td></tr></table>
-
 </td></tr></table>
