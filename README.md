@@ -34,7 +34,7 @@ it contains everything.
 
 <table><tr><td>
 
-<b><a href="https://github.com/dujanhung/sicalyme/blob/main/navigation/documentation/metadata_navigation.md">metadata</a></b>
+<b><a href="https://github.com/dujanhung/sicalyme-nav/blob/main/README.md">metadata</a></b>
 
 </td></tr></table>
 
