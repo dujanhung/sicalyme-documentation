@@ -22,7 +22,7 @@ it contains everything.
 
 <table><tr><td>
 
-<b><a href="https://github.com/dujanhung/sicalyme/blob/main/navigation/navigation.md">navigation</a></b>
+<b><a href="https://github.com/dujanhung/sicalyme-nav/blob/main/README.md">navigation</a></b>
 
 </td></tr></table>
 
